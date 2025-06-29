@@ -1,0 +1,41 @@
+{
+	// Should bed spawn be disabled?
+	"DisableBedSpawn": true,
+	// A list of allowed foods to charge the anchor and the amount of charge per item. Non-Food items and Cake will be ignored.
+	"Foods": {
+		"minecraft:apple": 1,
+		"minecraft:mushroom_stew": 2,
+		"minecraft:bread": 2,
+		"minecraft:porkchop": 1,
+		"minecraft:cooked_porkchop": 2,
+		"minecraft:golden_apple": 3,
+		"minecraft:enchanted_golden_apple": 4,
+		"minecraft:cod": 1,
+		"minecraft:salmon": 1,
+		"minecraft:tropical_fish": 1,
+		"minecraft:pufferfish": 1,
+		"minecraft:cooked_cod": 2,
+		"minecraft:cooked_salmon": 2,
+		"minecraft:cookie": 2,
+		"minecraft:melon_slice": 1,
+		"minecraft:dried_kelp": 1,
+		"minecraft:beef": 1,
+		"minecraft:cooked_beef": 2,
+		"minecraft:chicken": 1,
+		"minecraft:cooked_chicken": 2,
+		"minecraft:carrot": 1,
+		"minecraft:potato": 1,
+		"minecraft:baked_potato": 2,
+		"minecraft:pumpkin_pie": 3,
+		"minecraft:rabbit": 1,
+		"minecraft:cooked_rabbit": 2,
+		"minecraft:rabbit_stew": 2,
+		"minecraft:mutton": 1,
+		"minecraft:cooked_mutton": 2,
+		"minecraft:beetroot": 1,
+		"minecraft:beetroot_soup": 2,
+		"minecraft:sweet_berries": 1,
+		"minecraft:glow_berries": 1,
+		"minecraft:honey_bottle": 2
+	}
+}
